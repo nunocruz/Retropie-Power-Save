@@ -1,5 +1,5 @@
 ## Automatic installation command
-wget "https://github.com/nunocruz/Retropie-Power-Save/blob/main/update-power-save.sh" && \
+wget "https://raw.githubusercontent.com/nunocruz/Retropie-Power-Save/main/update-power-save.sh" && \
 chmod 744 update-power-save.sh && \
 ./update-power-save.sh
 
