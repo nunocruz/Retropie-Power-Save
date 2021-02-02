@@ -17,8 +17,8 @@ Copy this whole folder to ~/RetroPie/retropiemenu/powersave to have a quick and 
 
 | Script Name               | What it does              |
 | --- | --- |
-|disable-usb-chip.sh        | Turn OFF USB chip         |
-|enable-usb-chip.sh         | Turn ON USB chip          |
+|disable-usb-chip.sh        | Turn OFF USB/LAN chip         |
+|enable-usb-chip.sh         | Turn ON USB/LAN chip          |
 |disable-hdmi-output.sh     | Turn OFF HDMI output      |
 |enable-hdmi-output.sh      | Turn ON HDMI output       |
 
