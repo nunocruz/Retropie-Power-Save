@@ -23,7 +23,7 @@ Copy this whole folder to ~/RetroPie/retropiemenu/powersave to have a quick and 
 |enable-hdmi-output.sh      | Turn ON HDMI output       |
 
 # Contributing
-If you are interested in making this repo better (this includes the documentation), submit a pull request at (REPO URL) and we can work on getting it into the main branch. I'm open to contributions to better the scripts, implementation, or to add other more useful and convenient scripts.
+If you are interested in making this repo better (this includes the documentation), submit a pull request at https://github.com/nunocruz/Retropie-Power-Save and we can work on getting it into the main branch. I'm open to contributions to better the scripts, implementation, or to add other more useful and convenient scripts.
 
 # External links
 The information for this project was gathered from https://learn.pi-supply.com/make/how-to-save-power-on-your-raspberry-pi/
