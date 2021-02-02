@@ -1,0 +1,19 @@
+## Automatic installation command
+wget "https://github.com/nunocruz/Retropie-Power-Save/blob/main/update-power-save.sh" && \
+chmod 744 update-power-save.sh && \
+./update-power-save.sh
+
+## If you still would like to install manually, then follow the instructions below:
+
+# If you don't know how to get to a terminal on Retropie, you can plug in a keyboard and press 'F4' when you get to the game select screen (this menu is called EmulationStation).
+# From there, you can type the line in. If you want to copy and paste, I recommend setting up ssh. Read about that here: 'https://retropie.org.uk/docs/SSH/'
+
+# Here is how you install (copy the following lines in a terminal on the pi):
+git clone https://github.com/nunocruz/Retropie-Power-Save.git ~/RetroPie/retropiemenu/powersave && \
+chmod +x ~/RetroPie/retropiemenu/powersave/.install-to-games-list.sh && \
+~/RetroPie/retropiemenu/powersave/.install-to-games-list.sh
+
+# And then you're all done. You should only run the above lines once.
+#
+# When you're ready to update (if the scripts get any updates), run the following line (in a terminal on the pi, of course):
+git -C ~/RetroPie/retropiemenu/powersave pull
