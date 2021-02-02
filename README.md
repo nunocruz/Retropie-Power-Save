@@ -26,4 +26,9 @@ Copy this whole folder to ~/RetroPie/retropiemenu/powersave to have a quick and 
 If you are interested in making this repo better (this includes the documentation), submit a pull request at https://github.com/nunocruz/Retropie-Power-Save and we can work on getting it into the main branch. I'm open to contributions to better the scripts, implementation, or to add other more useful and convenient scripts.
 
 # External links
+
+## Source
+The inspiration to make this project comes from https://github.com/brandflake11/Retropie-Airplane-Mode. A project that adds the functionality of enabling and disabling wifi and bluetooth (aka airplane mode). Aimed for the RetroPie system, it is incorporated in it's menu, but can also be used as a standalone for the raspberry pi. 
+
+## Article on power saving
 The information for this project was gathered from https://learn.pi-supply.com/make/how-to-save-power-on-your-raspberry-pi/
