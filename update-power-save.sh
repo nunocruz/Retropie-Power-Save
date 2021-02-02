@@ -11,7 +11,7 @@
 RPS_DIR=~/RetroPie/retropiemenu/powersave
 
 RPS_INSTALL() {
-git clone GITURL ~/RetroPie/retropiemenu/powersave
+git clone https://github.com/nunocruz/Retropie-Power-Save.git ~/RetroPie/retropiemenu/powersave
 chmod +x ~/RetroPie/retropiemenu/powersave/.install-to-games-list.sh
 ~/RetroPie/retropiemenu/powersave/.install-to-games-list.sh
 }
