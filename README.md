@@ -5,12 +5,13 @@ A collection of scripts to allow for disabling and enabling components on your R
 These scripts should be targeted specifically for the Raspberry Pi. Personally, I am using them on the Piboy DMG, but they should work for any RPI-based handheld.
 
 # Instructions
+## Automatic
+For easy installation instructions, look at the file INSTALL (https://github.com/nunocruz/Retropie-Power-Save/blob/main/INSTALL) in this directory.
+
+## Manual
 Copy this whole folder to ~/RetroPie/retropiemenu/powersave to have a quick and easy method to turn off/on the components without interfering with your game list. 
 
 ![Image of the power save folder this script adds in RetroPie's EmulationStation Menu](https://raw.githubusercontent.com/nunocruz/Retropie-Power-Save/main/on-off-switch.png)
-
-
-For easy installation instructions, look at the file INSTALL (https://github.com/nunocruz/Retropie-Power-Save/blob/main/INSTALL) in ) in this directory.
 
 # The included scripts:
 

@@ -37,4 +37,3 @@ then
     RPS_UPDATE
     echo "Update done."
 fi
-
