@@ -35,7 +35,7 @@ echowarning()
 }
 
 # This finds your </gameList> line and replaces it with the entry for the
-# wireless folder. Then it adds its own </gameList> line.
+# powersave folder. Then it adds its own </gameList> line.
 #
 # There are currently two places I know that this file exists. It seems retropie is officially putting retropiemenu's gamelist.xml in ~/.emulationstation/gamelists/retropie now.
 # We are going to act on both potential places. It doesn't hurt anything if the file doesn't exist to run the function on it.
