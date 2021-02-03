@@ -1,9 +1,14 @@
-## Automatic installation command
+# Copyright (C) <2020>  <Brandon Hale>
+
+# This script was slightly altered from the original one by Brandon Hale, in order to
+# accommodate for the folder structure in this repo.
+    
+# Automatic installation command
 wget "https://raw.githubusercontent.com/nunocruz/Retropie-Power-Save/main/update-power-save.sh" && \
 chmod 744 update-power-save.sh && \
 ./update-power-save.sh
 
-## If you still would like to install manually, then follow the instructions below:
+# If you still would like to install manually, then follow the instructions below:
 
 # If you don't know how to get to a terminal on Retropie, you can plug in a keyboard and press 'F4' when you get to the game select screen (this menu is called EmulationStation).
 # From there, you can type the line in. If you want to copy and paste, I recommend setting up ssh. Read about that here: 'https://retropie.org.uk/docs/SSH/'
