@@ -23,17 +23,17 @@ git -C ~/RetroPie/retropiemenu/powersave pull
 ## Install logic. Only installs if installation is not found.
 if [ -d $RPS_DIR ]
 then
-    echo RetroPie-power-save is already installed!
+    echo RetroPie-Power-Save is already installed!
 else
-    echo RetroPie-power-save not installed. Installing now...
+    echo RetroPie-Power-Save not installed. Installing now...
     RPS_INSTALL
-    echo "Check under Retropie > Settings > powersave to try them out"
+    echo "Check under Retropie > Settings > Power Save to try them out"
 fi
 
 ## Update Logic. Only updates if installation is found.
 if [ -d $RPS_DIR ]
 then
-    echo "Updating Retropie-power-save scripts."
+    echo "Updating Retropie-Power-Save scripts."
     RPS_UPDATE
     echo "Update done."
 fi
