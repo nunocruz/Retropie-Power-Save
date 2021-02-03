@@ -1,5 +1,9 @@
 #!/bin/bash
+# Copyright (C) <2020>  <Brandon Hale>
 
+# This script was slightly altered from the original one by Brandon Hale, in order to
+# accommodate for the folder structure in this repo.
+    
 # DISCLAIMER: The Piboy DMG is made by ExperimentalPi. The authors of this script is not affiliated and does not own ExperimentalPi or the Piboy DMG. They are properties of their respective owners.
 
 # This is the power-save scripts update/install script.
