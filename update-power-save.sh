@@ -1,16 +1,16 @@
 #!/bin/bash
-# Original scripts by Brandon Hale, adapted by Nuno Cruz
+    # Original scripts by Brandon Hale, adapted by Nuno Cruz
 
-# This script was slightly altered from the original one by Brandon Hale, in order to
-# accommodate for the folder structure in this repo.
-    
-# DISCLAIMER: The Piboy DMG is made by ExperimentalPi. The authors of this script is not affiliated and does not own ExperimentalPi or the Piboy DMG. They are properties of their respective owners.
+    # This script was slightly altered from the original one by Brandon Hale, in order to
+    # accommodate for the folder structure in this repo.
 
-# This is the power-save scripts update/install script.
-# This will look to see if you have the power-save scripts installed, and do it for you automatically.
-# It also doubles as an updater, so you can just run this from the emulationstation menu and it will update the scripts seamlessly for you.
+    # DISCLAIMER: The Piboy DMG is made by ExperimentalPi. The authors of this script is not affiliated and does not own ExperimentalPi or the Piboy DMG. They are properties of their respective owners.
 
-# RPS stands for Retropie-power-save
+    # This is the power-save scripts update/install script.
+    # This will look to see if you have the power-save scripts installed, and do it for you automatically.
+    # It also doubles as an updater, so you can just run this from the emulationstation menu and it will update the scripts seamlessly for you.
+
+    # RPS stands for Retropie-power-save
 
 RPS_DIR=~/RetroPie/retropiemenu/powersave
 

@@ -1,6 +1,6 @@
 #!/bin/bash
-    # Retropie Airplane Mode scripts; allows for disabling and enabling wireless.
-    # Copyright (C) <2020>  <Brandon Hale>
+    # Retropie Power Save scripts; allows for disabling and enabling USB, Lan and HDMI.
+    # Copyright (C) <2021>  <Nuno Cruz>
 
     # This program is free software: you can redistribute it and/or modify
     # it under the terms of the GNU General Public License as published by
