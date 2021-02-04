@@ -1,5 +1,5 @@
 #!/bin/bash
-# Copyright (C) <2020>  <Brandon Hale>
+# Original scripts by Brandon Hale, adapted by Nuno Cruz
 
 # This script was slightly altered from the original one by Brandon Hale, in order to
 # accommodate for the folder structure in this repo.
