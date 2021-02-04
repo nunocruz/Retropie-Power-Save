@@ -1,9 +1,6 @@
 #!/bin/bash
     # Retropie Power Save scripts; allows for disabling and enabling USB, Lan and HDMI.
-    # Copyright (C) <2020>  <Brandon Hale>
-    
-    # This script was slightly altered from the original one by Brandon Hale, in order to
-    # accommodate for the folder structure in this repo.
+    # Original scripts by Brandon Hale, adapted by Nuno Cruz
 
     # This program is free software: you can redistribute it and/or modify
     # it under the terms of the GNU General Public License as published by
